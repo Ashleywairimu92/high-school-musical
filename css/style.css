@@ -1,0 +1,22 @@
+#header{color: rgb(57, 107, 17);
+font-size: xx-large;
+font-style: italic;
+text-underline-position: below;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.wrapper{color: rebeccapurple;
+font-size: x-large;
+text-align: center;
+font-style: oblique;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+img{border-radius: 0vh;img size: display: 20vh;height: 20vh; width: 20vh;
+img position: relative;}
+body{background-position: center;
+background-size: cover;
+backface-visibility: hidden;
+background-repeat: no-repeat;
+background-image: url(https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bXVzaWMlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww);}
+.img{position: relative;}
+.text{ text-align: center
+}
